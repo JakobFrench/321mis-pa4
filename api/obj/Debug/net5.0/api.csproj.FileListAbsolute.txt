@@ -1,0 +1,7 @@
+/Users/jakeyfrench/MIS321/321mis-pa4/api/obj/Debug/net5.0/api.csproj.AssemblyReference.cache
+/Users/jakeyfrench/MIS321/321mis-pa4/api/obj/Debug/net5.0/api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyfrench/MIS321/321mis-pa4/api/obj/Debug/net5.0/api.AssemblyInfoInputs.cache
+/Users/jakeyfrench/MIS321/321mis-pa4/api/obj/Debug/net5.0/api.AssemblyInfo.cs
+/Users/jakeyfrench/MIS321/321mis-pa4/api/obj/Debug/net5.0/api.csproj.CoreCompileInputs.cache
+/Users/jakeyfrench/MIS321/321mis-pa4/api/obj/Debug/net5.0/api.MvcApplicationPartsAssemblyInfo.cs
+/Users/jakeyfrench/MIS321/321mis-pa4/api/obj/Debug/net5.0/api.MvcApplicationPartsAssemblyInfo.cache
